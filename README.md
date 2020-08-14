@@ -1,6 +1,8 @@
 # TributePage
 A responsive web design project in freecodecamp.org
 
+  <!DOCTYPE html>
+<html>
   <style>
     
     .image-center{
@@ -72,3 +74,4 @@ A responsive web design project in freecodecamp.org
        <b>If you have time, you should read more about this incredible human being on his<a href="https://en.wikipedia.org/wiki/Norman_Borlaug"> <span style="color:blue">Wikipedia entry </span></a></b>
      </footer>
   </main>
+     </html>
